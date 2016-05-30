@@ -1,10 +1,10 @@
-# Brunch + Babel/ES6
+# Brunch Better Have Mimosas Forked From Brunch + Babel/ES6 but added support for sass-brunch.
 
-This is a modern JS skeleton for [Brunch](http://brunch.io).
+This is a modern+ JS skeleton for [Brunch](http://brunch.io).
 
 ## Installation
 
-Clone this repo manually or use `brunch new dir -s brunch/with-es6`
+Clone this repo manually or use `brunch new dir -s davezen1/brunch-better-have-mimosas`
 
 ## Getting started
 
